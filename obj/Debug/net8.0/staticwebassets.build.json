@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Vnpg0oXSZ9IiHpYOzb3fDWKGYJRIi/0DM3ec3xIHvqw=",
+  "Source": "dotnet-docx-core-controller",
+  "BasePath": "_content/dotnet-docx-core-controller",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@dotnet_docx_core_controller_HostAddress = http://localhost:5037
+
+GET {{dotnet_docx_core_controller_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
